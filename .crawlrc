@@ -3,6 +3,11 @@
 # * https://github.com/crawl/crawl/blob/master/crawl-ref/docs/options_guide.txt
 # Also integrates some settings from: https://github.com/HilariousDeathArtist/DCSSConfigFile
 
+# Tips and Tricks
+#  1. On start of a new game, press \ and set auto pickup items (e.g. stones, large rocks)
+#  2. On start of a new game, press m and customize skills (e.g. Throwing)
+#  3. At the end of each level, before descending, quaff and read everything that's unidentified (or, identify it then quaff/read it)
+
 # Stop if HP is <= this % of max HP
 autofight_stop = 30
 
